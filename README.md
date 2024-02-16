@@ -8,7 +8,6 @@ Design made by The Odin Project.
 
 Images - Pexels:
 Photo by Chait Goli: https://www.pexels.com/photo/multicolored-skull-decor-1918290/
-Photo by luizclas: https://www.pexels.com/photo/woman-holding-lit-up-light-string-silhouette-photography-595747/
 Photo by Min An: https://www.pexels.com/photo/silhouette-photo-of-trees-962312/
 
 Images - Unsplash:
